@@ -1,0 +1,6 @@
+--2023-07-13 14:37:31--  https://data-delivery.obs.myhuaweicloud.com/20230704/JT230612_1-180627604T1-AGCGTGTT-TTGCGAAG_L01_2.fq.gz?AccessKeyId=OJHIFBJFZA2WWR0PTSC1
+正在解析主机 data-delivery.obs.myhuaweicloud.com (data-delivery.obs.myhuaweicloud.com)... 114.115.192.27, 114.115.192.163, 114.115.192.98
+正在连接 data-delivery.obs.myhuaweicloud.com (data-delivery.obs.myhuaweicloud.com)|114.115.192.27|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 403 Forbidden
+2023-07-13 14:37:31 错误 403：Forbidden。
+
